@@ -6,9 +6,7 @@
 
 - 👋 Salut, je m'appelle MØNØ.
 - J'écrire les poésies anglais et j'ai décider publier elles sur GitHub Pages.
-- Je apprendu (encore) HTML parce que je n'ai pas practiquer le codage pour des 
-- temps et je ne souviens pas trop de codage.
+- Je apprendu (encore) HTML parce que je n'ai pas practiquer le codage pour des temps et je ne souviens pas trop de codage.
 - Je apprendu CSS et le déploiement des sites internets.
 - Je suis désolé si mon français est mal, il n'est pas ma première langue.
-- Je n'ai pas publier mes poésies français déjà mais si vous voulez regarder mes poésies anglais,
-- visitez mon site internet: megn09.github.io
+- Je n'ai pas publier mes poésies français déjà mais si vous voulez regarder mes poésies anglais, visitez mon site internet: megn09.github.io
